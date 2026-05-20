@@ -14,11 +14,11 @@ ADMIN_ID = 5397964203
 # Tombol CTA di setiap postingan
 BUTTONS = {
     "play": "🎮 MAINKAN SEKARANG DI RUPIAHTOTO",
-    "play_url": "https://preciseurl.org/LINK_RUPIAHTOTO",
+    "play_url": "https://rupiahtotojune.com/",
     "chat": "💬 CHAT ADMIN RUPIAHTOTO",
     "chat_url": "https://t.me/rupiahtoto",
     "promo": "🎁 PROMO RUPIAHTOTO",
-    "promo_url": "https://preciseurl.org/PROMO_RUPIAHTOTO"
+    "promo_url": "https://promosi.rupiahtotoprediksi.com/"
 }
 
 # ID thread/topik dalam grup
